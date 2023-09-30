@@ -1,0 +1,1 @@
+mean(pruebagithubsubir$edad)
